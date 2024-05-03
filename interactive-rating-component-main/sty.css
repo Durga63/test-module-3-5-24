@@ -1,0 +1,22 @@
+body{
+    background-color:black;
+    align-items: center;
+    margin-left: 600px;
+    padding-top: 200px;
+}
+.container{
+    display:inline;
+    flex-direction: row;
+    background-color: black;
+    color:black;
+    margin: 30px;
+}
+.button{
+    color: chocolate;
+    border-radius: 30px;
+    background-color: beige;
+    display: inline;
+   padding: 8px;
+    margin-left: 30px;
+}
+   
